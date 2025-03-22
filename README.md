@@ -1,4 +1,4 @@
-# 👻 THE GHOST - Ultimate Cyber Ops Simulation
+# GHOST.AI -  THE AI HACKER (AN IDEA)
 
 ![The Ghost Interface](target/debug/.fingerprint/GHOST-7ee1e42de521476d/ref1.png)  
 
