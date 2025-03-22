@@ -1,4 +1,4 @@
-# GHOST.AI -  THE AI HACKER (AN IDEA)
+# GHOST.AI -  THE AI HACKER ( AN IDEA TO MIXUP CYBER AND AI )
 
 ![The Ghost Interface](target/debug/.fingerprint/GHOST-7ee1e42de521476d/ref1.png)  
 
