@@ -1,6 +1,6 @@
 #  **GHOST.AI** - *The AI Hacker*  
 ###  *An Idea to Mix Cyber & AI for the Ultimate Hacking Machine*  
-# Hey Make Sure You Atleast Copy Paste The Python Code And Run In Your Console To see How It Feels
+## *Hey Make Sure You Atleast Copy Paste The Python Code And Run In Your Console To see How It Feels*
 ![The Ghost Interface](target/debug/.fingerprint/GHOST-7ee1e42de521476d/ref1.png)  
 
 ---
