@@ -45,7 +45,7 @@ It **mimics real-world cyber attack strategies**, **adapts like a human hacker**
 - Wipes all logs **to erase any digital footprints**.  
 - **Data shredding & encryption cloaking** ensure undetectable ops.  
 - The AI **purges itself upon mission completion** to stay ghost-like.  
-
+## lets learn and build the real one together in future 
 ---
 
 ## 🚀 **Installation & Setup**  
@@ -55,3 +55,5 @@ git clone https://github.com/shivadeepak99/Ghost.ai.git
 cd Ghost.ai
 pip install -r requirements.txt
 python ghost.py
+
+
