@@ -1,7 +1,7 @@
 # 👻 THE GHOST - Ultimate Cyber Ops Simulation
 
 ![The Ghost Interface](target/debug/.fingerprint/GHOST-7ee1e42de521476d/ref1.png)  
-![The Ghost Interface](target/debug/.fingerprint/GHOST-7ee1e42de521476d/ref2.png)  
+
 
 ## 🔥 About  
 **The Ghost** is a **Hollywood-style cybersecurity attack simulation** that replicates real-world hacking tactics in a dramatic, cinematic way.  
