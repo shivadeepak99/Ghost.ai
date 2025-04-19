@@ -1,7 +1,8 @@
-
+  
 import random
 import time
 import sys
+import logger
 
 def type_out(text, delay=0.05):
     for char in text:
