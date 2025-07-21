@@ -9,7 +9,7 @@ def type_out(text, delay=0.05):
         sys.stdout.write(char)
         sys.stdout.flush()
         time.sleep(delay)
-    print("")
+    print("") 
 
 def cinematic_banner():
     type_out("""
